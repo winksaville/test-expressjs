@@ -1,0 +1,15 @@
+{
+  "name": "test-expressjs",
+  "version": "0.1.0",
+  "description": "Test expressjs web framework for nodejs",
+  "main": "app.js",
+  "repository": "https://github.com/winksaville/test-expressjs.git",
+  "author": "Wink Saville",
+  "license": "Unlicense",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
